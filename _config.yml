@@ -1,11 +1,9 @@
 title: Vercel ✕ Octauthent demo
-email: your-email@example.com
 description: >-
   An Octauthent demo hosted on Vercel
 baseurl: ""
 url: "https://vercel.octauthent.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  octauthent
 
 theme: minima
 plugins:
